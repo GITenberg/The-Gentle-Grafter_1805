@@ -1,0 +1,50 @@
+_repo: The-Gentle-Grafter_1805
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Preston, May Wilson
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '7318'
+    url: http://www.gutenberg.org/2009/agents/7318
+  - agent_name: Greening, Harry Cornell
+    aliases:
+    - Greening, Cornell
+    - Greening, H. C.
+    birthdate: 1876
+    gutenberg_agent_id: '7317'
+    url: http://www.gutenberg.org/2009/agents/7317
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: The octopus marooned ; Jeff Peters as a personal magnet ; Modern rural
+  sports ; The chair of philanthromathematics ; The hand that riles the world ; The
+  exact science of matrimony ; A midsummer masquerade ; Shearing the wolf ; Innocents
+  of Broadway ; Conscience in art ; The man higher up ; A tempered wind ; Hostages
+  to Momus ; The ethics of pig.
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The octopus marooned -- Jeff Peters as a personal magnet -- Modern
+  rural sports -- The chair of philanthromathematics -- The hand that riles the world
+  -- The exact science of matrimony -- A midsummer masquerade -- Shearing the wolf
+  -- Innocents of Broadway -- Conscience in art -- The man higher up -- A tempered
+  wind -- Hostages to Momus -- The ethics of pig.
+title: The Gentle Grafter
+url: http://www.gutenberg.org/ebooks/1805
