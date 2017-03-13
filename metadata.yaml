@@ -1,5 +1,5 @@
 _repo: The-Gentle-Grafter_1805
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Preston, May Wilson
@@ -14,6 +14,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '7317'
     url: http://www.gutenberg.org/2009/agents/7317
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henry, O.
@@ -28,6 +31,8 @@ description: The octopus marooned ; Jeff Peters as a personal magnet ; Modern ru
   exact science of matrimony ; A midsummer masquerade ; Shearing the wolf ; Innocents
   of Broadway ; Conscience in art ; The man higher up ; A tempered wind ; Hostages
   to Momus ; The ethics of pig.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1805#The-Gentle-Grafter
 gutenberg_issued: '1999-07-01'
 gutenberg_type: Text
 identifiers:
